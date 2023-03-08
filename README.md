@@ -1,4 +1,5 @@
-### Hi 👋, I'm Harsha Pulagam
+<h1 align="center">Hi 👋, I'm Harsha Pulagam</h1>
+<h3 align="center">Data Science Enthusiast. Looking for a job in Data Industry.</h3>
 
 <!--
 **Harsha-Pulagam/Harsha-Pulagam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
